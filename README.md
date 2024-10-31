@@ -1,6 +1,6 @@
-##♟️Jogo das peças♟️
+## ♟️Jogo das peças♟️
 
-###📄Manual de Instrução:
+### 📄Manual de Instrução:
 O jogo apresenta 48 casas com pedras (*) e 16 casas vazias (-)
 As jogadas funcionam da seguinte forma:
   a) Só é possível fazer saltos na diagonal;
